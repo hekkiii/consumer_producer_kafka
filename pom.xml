@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>consumer_producer_kafka</artifactId>
-	<version>1.0.a</version>
+	<version>1.1</version>
 	<name>consumer_producer_kafka</name>
 	<description>Consumer and producer for Kafka</description>
 	<properties>
